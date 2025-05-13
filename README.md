@@ -30,7 +30,7 @@ https://drive.google.com/drive/folders/1XPjd027xnqukwDdnbUZn5FM0d3ki-6PY?usp=sha
 
 # Author 
 - Errol Caeiro
-  [LinkedIn](https://linkedin.com/in/errol-caeiro-166bb)
+  [LinkedIn](https://linkedin.com/in/errolc11)
 
 # Acknowledgements
 - I would like to express my gratitude to the following individuals who have contributed in the development of this project:
