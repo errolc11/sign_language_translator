@@ -1,0 +1,21 @@
+# ===== Flutter =====
+sign/.dart_tool/
+sign/build/
+sign/.idea/
+sign/.flutter-plugins
+sign/.flutter-plugins-dependencies
+sign/.metadata
+sign/flutter_*.log
+sign/*.iml
+
+# ===== Python =====
+sign_backend/venv/
+sign_backend/__pycache__/
+*.pyc
+.env
+
+# ===== OS / IDE =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
